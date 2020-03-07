@@ -49,3 +49,8 @@
 [INFO ] 2020-03-06 19:34:16.898 [main] Log - Starting Scenario: Google store item placing
 [INFO ] 2020-03-06 19:34:23.567 [main] Log - Came to given url
 [ERROR] 2020-03-06 19:34:25.127 [main] Log - Error detected
+[INFO ] 2020-03-06 21:06:53.460 [main] Log - Starting Scenario: Google search positive
+[INFO ] 2020-03-06 21:07:30.206 [main] Log - Starting Scenario: Google store item placing
+[INFO ] 2020-03-06 21:07:34.801 [main] Log - Came to given url
+[ERROR] 2020-03-06 21:07:36.371 [main] Log - Error detected
+[INFO ] 2020-03-06 21:08:59.074 [main] Log - Starting Scenario: Google search positive

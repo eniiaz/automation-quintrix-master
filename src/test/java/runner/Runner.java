@@ -11,7 +11,7 @@ import utilities.ExtentReporter;
         plugin = {"html:target/cucumber", "json:target/report.json"},
         features = "src/test/resources/features",
         glue = "stepDef",
-        tags = "@googleStore",
+        tags = "@google",
         dryRun = false
 )
 
@@ -22,6 +22,6 @@ public class Runner {
         ExtentReporter.endTest();
     }
 
-
+//  mvn test -Dcucumber.options=“-- tags @google”
 
 }
